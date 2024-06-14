@@ -1,1 +1,1 @@
-print("Hello World! Welcome to the sample repo! ")
+print("Hello World! Welcome to the sample repo ")
